@@ -1,0 +1,35 @@
+#center{
+    margin-top: 20%;
+    text-align: center;
+}
+#in{
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    outline: none;
+   
+}
+#sb{
+    margin-top: 10px;
+    width:70px;
+    border: none;
+    background-color:bisque;
+    border-radius:5px;
+    outline: none;
+}
+.navbar{
+    background-color: rgb(255, 238, 206);
+}
+body{
+   
+    background-image: url("bg.png");
+    background-size: stretch;
+    background-repeat: no-repeat;
+}
+#dt{
+    border: none;
+    background-color:bisque;
+    border-radius:5px;
+    outline: none;
+    margin-top: 10px;
+}
